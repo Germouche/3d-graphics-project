@@ -1,0 +1,12 @@
+# Blender MTL File: 'palms-render.blend'
+# Material Count: 1
+
+newmtl Palms
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.496579 0.498965 0.506122
+Ks 0.030612 0.030612 0.030612
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Kuskus\Documents\PROJEKTY\Blender2014\trres\Palms.png
